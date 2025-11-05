@@ -60,10 +60,5 @@ Planned or potential upgrades include:
 - **Freepik / Unsplash** — Image resources  
 ---
 
-##  License  
-© 2025 RuchiGo | Designed for **Future Interns UI/UX Task 01**
-
----
-
 ###  Designer  
 Maila Harshita
