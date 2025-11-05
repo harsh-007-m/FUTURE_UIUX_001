@@ -54,6 +54,10 @@ Planned or potential upgrades include:
 - Improved accessibility and performance optimizations
 
 ---
+> 🖥️ A desktop variant has been added for the Home Page to demonstrate responsive adaptability.  
+> It maintains the same visual hierarchy and design language as the mobile version,  
+> while optimizing spacing, navigation, and layout for wider screens.
+---
 
 ##  Tools Used  
 - **Figma** — UI/UX Design & Prototyping  
