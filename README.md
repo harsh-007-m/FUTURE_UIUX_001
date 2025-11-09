@@ -11,8 +11,8 @@ This project was created as part of the **Future Interns UI/UX Task 01**.
 The interface allows users to explore a variety of **food categories** such as **Pan-Asian**, **Thalis**, **Desserts**, and **Beverages**, each leading to a curated menu section.  
 Within these menus, dishes are displayed as **interactive food cards** containing key information such as:
 
-- **Spice level**  
--  **Veg/Non-veg **  
+- **Spice level**
+- **Veg/Non-veg**  
 -  **Price and description**
 
 These features help users make informed and confident choices while maintaining a smooth browsing experience.
