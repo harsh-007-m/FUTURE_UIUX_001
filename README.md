@@ -12,7 +12,7 @@ The interface allows users to explore a variety of **food categories** such as *
 Within these menus, dishes are displayed as **interactive food cards** containing key information such as:
 
 - **Spice level**  
--  **Food Cards**  
+-  **Veg/Non-veg **  
 -  **Price and description**
 
 These features help users make informed and confident choices while maintaining a smooth browsing experience.
